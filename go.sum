@@ -1,0 +1,10 @@
+github.com/davidscholberg/go-durationfmt v0.0.0-20170122144659-64843a2083d3 h1:qshMBFxVjYjzI+kwvWvgoByF3uMCvnJiaK8KslWAbr8=
+github.com/davidscholberg/go-durationfmt v0.0.0-20170122144659-64843a2083d3/go.mod h1:M9fx6rAdHSYLKxXPgUXGgblb586CA7ceNrpu4DEc2No=
+github.com/davidscholberg/go-i3barjson v0.0.0-20160829004554-b537b5be0f63 h1:wNMyEToAWZAdFBLbu1q9Pc4z6xW07nuDYd+dHPGqn/Q=
+github.com/davidscholberg/go-i3barjson v0.0.0-20160829004554-b537b5be0f63/go.mod h1:I07Smx4Q4BwSL547RVXOgdhKBRJiEqV0oazLAJAXBt0=
+github.com/davidscholberg/goblocks v0.0.0-20170416143609-0969f3280668 h1:ut/uymqgn0QQgDEGdE0EoOalNtEayzGpuZooKiq25KI=
+github.com/davidscholberg/goblocks v0.0.0-20170416143609-0969f3280668/go.mod h1:3UDTuNR5I/Ie8y7ANHlJ8CjsCK/ucoWMpoCONPtzZe0=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405 h1:yhCVgyC4o1eVCa2tZl7eS0r+SDo693bJlVdllGtEeKM=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
+gopkg.in/yaml.v2 v2.4.0 h1:D8xgwECY7CYvx+Y2n4sBz93Jn9JRvxdiyyo8CTfuKaY=
+gopkg.in/yaml.v2 v2.4.0/go.mod h1:RDklbk79AGWmwhnvt/jBztapEOGDOx6ZbXqjP6csGnQ=
